@@ -7,7 +7,7 @@
 <h1 align="center">Hey👋, There! </h1>
 <h3 align="center">Passionate Learner</h3>
 
--👋 Hi, I'm Toran Shrestha!
+-#👋 Hi, I'm Toran Shrestha!
 -👩🏻‍💻 Learning Enthusiast sharing about my Journey and Learnings in tech<br/>
 -👩🏻‍🎓 Studied **Computer Science Engineering** at the Visvesvaraya Technological University (VTU), Bangalore<br/>
 -🌱 I’m currently learning **MERN-Stack**<br/>
