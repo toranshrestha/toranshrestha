@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toranshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="toranshrestha" /> </p>
 
-<p align="left"> <a href="https://youtube.com/toranshrestha" target="blank"><img src="https://img.shields.io/youtube/follow/toranshrestha?logo=youtube&style=for-the-badge" alt="toranshrestha" /></a> </p>
-
 - 🔭 I’m currently working on **Medical-Appointment-System**
 
 - 🌱 I’m currently learning **MERN-Stack**
