@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://shresthatoran.com.np](https://shresthatoran.com.np)
 
-- ⚡ Fun fact **Coffee with a View and I'm Yours :P**
+- ⚡ Fun fact **Coffee with a View and I'm Yours 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
