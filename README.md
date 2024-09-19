@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toranshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="toranshrestha" /> </p>
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/ebb3ff577bacdf61fe0cbf59af7521f5e98b3c30d9f60d4cf0a77f0bfd2e8014/68747470733a2f2f63646e2e706978616261792e636f6d2f616e696d6174696f6e2f323032322f30392f30372f30382f35352f30382d35352d34332d5f3531322e676966"  />
+  <img height="150" src="https://camo.githubusercontent.com/78972f6d45cdb47da153646eb144356bee2daac642bfad578da9d46a89a30f07/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3638302f312a495247486d69477361313673746564517649615a66772e676966"  />
 </div>
 
 <h1 align="center">Hey👋, There! </h1>
